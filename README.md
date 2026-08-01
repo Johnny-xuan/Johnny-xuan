@@ -14,20 +14,6 @@ I'm a third-year undergraduate at the **School of Artificial Intelligence, USTC*
 
 👥 Most days, my “coworkers” are **ChatGPT**, **Claude Code**, **Hermes**, and a growing cast of AI agents. (ಡωಡ)hiahiahia
 
-## 🛠️ What I've Built
-
-<p align="center">
-  <a href="https://github.com/Johnny-xuan/TreeWork"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Johnny-xuan&repo=TreeWork&theme=transparent&border_radius=10" alt="TreeWork — A tree-guided development plugin for long-running coding agents." /></a>
-  <a href="https://github.com/Johnny-xuan/M2-Alpha"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Johnny-xuan&repo=M2-Alpha&theme=transparent&border_radius=10" alt="M²-Alpha — An A-share quantitative model combining Micro and Macro attention." /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Johnny-xuan/Anymark"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Johnny-xuan&repo=Anymark&theme=transparent&border_radius=10" alt="AnyMark — An AI-agent browser extension for managing bookmarks through natural language." /></a>
-  <a href="https://github.com/Johnny-xuan/CoreLab"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Johnny-xuan&repo=CoreLab&theme=transparent&border_radius=10" alt="CoreLab — A self-hosted GPU management platform for small labs." /></a>
-</p>
-
-Also: [Agent Caller](https://github.com/Johnny-xuan/Agent-Caller) · [Atlas Sidebar](https://github.com/Johnny-xuan/Atlas-Sidebar) · [CoSwipe](https://github.com/Johnny-xuan/CoSwipe)
-
 ## 🌿 Beyond Work
 
 ✍️ I enjoy writing about **AI, technology, society, economics, and civilization** — and the philosophical questions behind them.
