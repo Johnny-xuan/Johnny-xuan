@@ -12,7 +12,7 @@ I'm a third-year undergraduate at the **School of Artificial Intelligence, USTC*
 
 🔭 I also study **Vision-Language Models**, **Diffusion Language Models**, and **World Models**.
 
-👥 Most days, my “coworkers” are **ChatGPT**, **Claude Code**, **Hermes**, and a growing cast of AI agents. 😂
+👥 Most days, my “coworkers” are **ChatGPT**, **Claude Code**, **Hermes**, and a growing cast of AI agents. (ಡωಡ)hiahiahia
 
 ## 🛠️ What I've Built
 
