@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=58A6FF&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=1D4ED8&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=2563EB&vCenter=true&repeat=false&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." alt="👋 Hi there! I'm Zhongxuan Song. You can call me Johnny." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=58A6FF&vCenter=true&repeat=true&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=1D4ED8&vCenter=true&repeat=true&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=500&color=2563EB&vCenter=true&repeat=true&width=700&height=55&lines=%F0%9F%91%8B+Hi+there!+I%27m+Zhongxuan+Song;You+can+call+me+Johnny." alt="👋 Hi there! I'm Zhongxuan Song. You can call me Johnny." />
 </picture>
 
 I'm a third-year undergraduate at the **School of Artificial Intelligence, USTC**.
