@@ -6,7 +6,7 @@
 
 I'm a third-year undergraduate at the **School of Artificial Intelligence, USTC**.
 
-🦾 I’m an idealist about AI, and I hope to build a real-world **JARVIS**.
+🌈 I’m an idealist about AI, and I hope to build a real-world **JARVIS**.
 
 💻 My work focuses on **AI agents** and **post-training**. I am interested in how models and agent systems can evolve together, rather than treating intelligence as either a model problem or a systems problem.
 
